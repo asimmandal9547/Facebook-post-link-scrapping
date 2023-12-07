@@ -1,4 +1,3 @@
-**Project Title: Facebook Post Scraper and Viewer**
 
 **Key Features:**
 
