@@ -5,7 +5,7 @@ import time
 import urllib.request
 import os
 
-# Notification block or bypass......................
+# Notification block or bypass...................... 
 driver = webdriver.Edge(executable_path = 'C:\\msedgedriver.exe')
 
 
